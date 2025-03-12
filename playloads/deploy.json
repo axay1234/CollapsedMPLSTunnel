@@ -1,0 +1,15 @@
+{
+    "cliTemplateCommand": {
+        "options": {
+            "copyConfigToStartup": false
+        },
+        "targetDevices": {
+            "targetDevice": [
+                {
+                    "targetDeviceID": "<<deviceID>>"
+                }
+            ]
+        },
+        "templateName": "<<templateName>>"
+    }
+}

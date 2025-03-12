@@ -1,0 +1,9 @@
+{
+    "cliTemplate": {
+        "content": "<<commands>>",
+        "deviceType": "Optical Networking/Cisco Network Convergence System 4200 Series",
+        "name": "<<templateName>>",
+        "path": "",
+        "tags": ""
+    }
+}
